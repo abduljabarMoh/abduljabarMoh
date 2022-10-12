@@ -10,7 +10,7 @@
 
 
 
-![abduljabarMoh](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
+![abdul-jabarMoh](https://github-readme-stats.vercel.app/api?username=abduljabarMoh&show_icons=true&theme=dracula&count_private=true)
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
