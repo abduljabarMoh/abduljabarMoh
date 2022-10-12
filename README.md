@@ -3,14 +3,14 @@
 
 
 - ⚡ Fun fact **I am funny😅**
-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abduljabarMoh&show_icons=true&locale=en"color=0e75b6&style=flat alt="abduljabarMoh" /></p>
+-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abduljabarMoh&label=Profile%20views&color=0e75b6&style=flat" alt="abduljabarMoh" /> </p>
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 
-<!-- ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true) -->
+![abduljabarMoh](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
