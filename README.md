@@ -1,4 +1,4 @@
-![logo](https://github.com/abduljabarMoh/abduljabarMoh/blob/main/Github%20Banner.png)
+![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm abduljabarMoh</h1>
 <h3 align="center">A passionate Software Engineer from Somalilnd</h3>
 
