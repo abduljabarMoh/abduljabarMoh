@@ -33,7 +33,7 @@
  
 <h1 align="center">Hi 👋, I'm /abduljabarMoh</h1>
 <h3 align="center">A passionate Software Engineer from Somalilnd</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abduljabarMoh&label=Profile%20views&color=0e75b6&style=flat" alt="abduljabarMoh" /> </p>
 <div align="center">
   <a href="https://github.com/abduljabarMoh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abduljabarMoh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
