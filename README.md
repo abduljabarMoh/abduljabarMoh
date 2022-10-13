@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm A B D I J A B A A R </h1>
 
 <hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abduljabarMoh&label=Profile%20views&color=0e75b6&style=flat" alt="abduljabarMoh" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abduljabarMoh&label=Profile%20views&color=0e75b6&style=flat" alt="abduljabarMoh" /> </p>
 <div align="center">
 
 <h1 align="center">
