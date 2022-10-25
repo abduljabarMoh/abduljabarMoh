@@ -4,15 +4,12 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abduljabarMoh&label=Profile%20views&color=0e75b6&style=flat" alt="abduljabarMoh" /> </p>
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=your-github-abduljabarMoh&color=blueviolet&style=flat-square)
+
 
 <img width="47%" align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=abduljabarMoh&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduljabarMoh&layout=compact" />
 
 
-<br />
-
-<br />
 
 
 
@@ -31,10 +28,7 @@
 
 
 
-  <a href="https://github.com/abduljabarMoh">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=abduljabarMoh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduljabarMoh&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+ 
 <!--    <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ashutosh mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/abduljabarMoh/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abduljabarMoh" height="30" width="40" /></a>
