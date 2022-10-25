@@ -3,6 +3,9 @@
 <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abduljabarMoh&label=Profile%20views&color=0e75b6&style=flat" alt="abduljabarMoh" /> </p>
 <div align="center">
+      <a href="https://github.com/abduljabarMoh?tab=followers">
+          <img width="120px" height="25px" style="border-radius: 3px" src="https://img.shields.io/github/followers/abduljabarMoh?style=flat-square">
+      </a>
 
 
 
@@ -14,12 +17,7 @@
 
 
 
-<!--       Followers  -->
-      <a href="https://github.com/abduljabarMoh?tab=followers">
-          <img width="120px" height="25px" style="border-radius: 3px" src="https://img.shields.io/github/followers/abduljabarMoh?style=flat-square">
-      </a>
-  </div>
-</h1>
+
 
  
 
