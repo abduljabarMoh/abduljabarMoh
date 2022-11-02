@@ -2,7 +2,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=your-github-abduljabarMoh&color=pink&style=flat-square)
+![](https://komarev.com/ghpvc/?username=your-github-abduljabarMoh&color=bluered&style=flat-square)
 
 
 <div align="center">
