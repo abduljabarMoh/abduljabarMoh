@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm A B D I J I B A A R </h1>
 
 
- <div align="center" style="margin: 40px 0">
-![](https://komarev.com/ghpvc/?username=your-github-abduljabarMoh&color=blueviolet&style=flat-square)
-  </div>
+
+![](https://komarev.com/ghpvc/?username=your-github-abduljabarMoh&color=blueviolet&style=flat-square style="center")
+
 
 <div align="center">
   <a href="https://github.com/abduljabarMoh">
